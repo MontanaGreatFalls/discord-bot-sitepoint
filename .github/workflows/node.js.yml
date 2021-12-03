@@ -1,10 +1,8 @@
-const process.env.TOKEN = OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A.U4pp-4IIlGCi6aza0Sx-dLSBhb8;
+const process.env.TOKEN ="OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A._J7jeQQEfEn9yX79AKo6uE768_0"
 
-const OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A.U4pp-4IIlGCi6aza0Sx-dLSBhb8 = process.env.TOKEN;
+const OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A._J7jeQQEfEn9yX79AKo6uE768_0 = process.env.TOKEN;
 
-bot.login(OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A.U4pp-4IIlGCi6aza0Sx-dLSBhb8);
-
-const process.env.TOKEN = “OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A.C6ncF8rqEfmdPsak8vocuDtiYE8;
+bot.login(OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A._J7jeQQEfEn9yX79AKo6uE768_0);
 
 bot.on('ready', () => {
   console.info(`Logged in as ${Security#3138}!`);
