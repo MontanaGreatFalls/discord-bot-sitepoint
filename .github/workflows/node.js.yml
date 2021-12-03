@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 
 const OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A.NT8DGE2KbPHzahNLQxlLmsAmdVE = process.env.TOKEN;
 
-bot.login(OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A.NT8DGE2KbPHzahNLQxlLmsAmdVE);
+bot.login();
 
 
 bot.on('ready', () => {
