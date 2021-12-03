@@ -1,6 +1,4 @@
-require('dotenv').config();
-const Discord = require('discord.js');
-const bot = new Discord.Client();
+const process.env.TOKEN = “OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A.0ofFO7J8A0HVSGB2YrcVphK8tes";
 
 const OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A.C6ncF8rqEfmdPsak8vocuDtiYE8 = process.env.TOKEN;
 
