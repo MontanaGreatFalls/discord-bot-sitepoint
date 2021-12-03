@@ -1,4 +1,4 @@
-const process.env.TOKEN ="OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A._J7jeQQEfEn9yX79AKo6uE768_0"
+const process.env.TOKEN = "OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A._J7jeQQEfEn9yX79AKo6uE768_0";
 
 const OTE2MzgzNjg4ODAyMDYyMzc2.YapW0A._J7jeQQEfEn9yX79AKo6uE768_0 = process.env.TOKEN;
 
