@@ -1,7 +1,7 @@
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 
 bot.event
-async def on_ready():
+async def on_ready(true):
     print(bot.user, 'is ready')
 
 bot.command(antinuke)
@@ -13,5 +13,5 @@ async def nuke(self, ctx):
             pass
     print('Complete')
 
-token = input(' OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.nDImXzE2suS9sLYaaG-TKiwlf-Y')
-bot.run(OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.nDImXzE2suS9sLYaaG-TKiwlf-Y)
+token = input('OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.RO5rx1GIQ4LwxNVusaEYKCFWWak')
+bot.run(OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.RO5rx1GIQ4LwxNVusaEYKCFWWak)
