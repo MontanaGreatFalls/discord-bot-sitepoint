@@ -30,5 +30,5 @@ async def ban(ctx):
             pass
     print(f'Banned for guild {ctx.guild.name} (ID: {ctx.guild.id})')
 
-token = input('OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.LK1EiFQraVMWMr9F8-MptpSAR7o: ')
-bot.run(OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.LK1EiFQraVMWMr9F8-MptpSAR7o)
+token = input('OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.vBym7cB9tTByiDFohtktoNqzzN4')
+bot.run(OTQ0NDQxNDU1MTE4NzgyNTE0.YhBppQ.vBym7cB9tTByiDFohtktoNqzzN4)
